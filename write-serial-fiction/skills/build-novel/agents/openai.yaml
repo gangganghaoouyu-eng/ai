@@ -1,0 +1,4 @@
+interface:
+  display_name: "构建全新小说"
+  short_description: "从题材与设定逐轮构思到大纲卷纲章纲，接纳自由补充并支持拆书创新"
+  default_prompt: "帮我创建一本新小说。请使用 $build-novel。"

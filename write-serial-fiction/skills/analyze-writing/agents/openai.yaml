@@ -1,0 +1,6 @@
+interface:
+  display_name: "文章拆解与写法学习"
+  short_description: "拆书提炼方法，完全参照实际原文写法与格式写原创例文，再逐项解释"
+  default_prompt: "请使用 $analyze-writing，拆解指定原文并完全参照其文风和格式写原创例文，再说明具体写作方法与格式。"
+policy:
+  allow_implicit_invocation: true
